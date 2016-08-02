@@ -1,0 +1,23 @@
+{
+  "name": "census_stations_parse",
+  "version": "1.0.0",
+  "description": "Parse data and metadata from Caltrans census stations (from PeMS)",
+  "main": "parse.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^6.3.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js -- --cov --coverage-report=lcov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarca/census_stations_parse.git"
+  },
+  "author": "James E. Marca",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jmarca/census_stations_parse/issues"
+  },
+  "homepage": "https://github.com/jmarca/census_stations_parse#readme"
+}

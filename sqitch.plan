@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=census_stations_parse
+%uri=https://github.com/jmarca/census_stations_parse
+
+tmg_locations [calvad_db_geoextensions:geoextensions calvad_census_schema:census_schema] 2016-08-01T00:45:42Z James E. Marca <james@activimetrics.com> # add tmg_locations
